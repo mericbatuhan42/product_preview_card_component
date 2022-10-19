@@ -23,6 +23,7 @@ Users should be able to:
 
 ### Links
 
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/product-preview-card-component-using-flexbox-hqcgFSf5Pm)
 - Live Site URL: https://mericbatuhan42.github.io/product_preview_card_component/
 
 ## My process
